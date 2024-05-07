@@ -1,4 +1,4 @@
-FROM dagster/k8s-example
+FROM dagster/user-code-example:1.6.13
 
 
 RUN pip install \
